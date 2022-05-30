@@ -2477,3 +2477,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.30-13.57.50:196][398]LogFileHelpers: Saving map 'Level1' took 0.020
 [2022.05.30-13.57.50:204][398]AssetCheck: New page: Asset Save: Level1
 [2022.05.30-13.57.50:204][398]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2022.05.30-14.10.18:111][898]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/pl//Engine/Rendering/LightingAndShadows/LightTypes/Directional/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2022.05.30-15.48.19:518][738]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.05.30-15.49.01:633][744]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.05.30-15.49.47:989][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.05.30-15.49.48:030][511]LogSavePackage: Moving '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Saved/Level1_Auto7BAB7CA3646B8723F29928588AB175261.tmp' to '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Saved/Autosaves/Game/Levels/Level1_Auto7.umap'
+[2022.05.30-15.49.48:031][511]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.090
+[2022.05.30-15.49.48:031][511]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.090
+[2022.05.30-15.53.00:854][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.05.30-15.53.00:886][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.30-15.53.00:935][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.05.30-15.53.00:942][539]LogSavePackage: Moving '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Saved/Level17637AB6C40B9D2F86D7F83A6A7A730BA.tmp' to '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Content/Levels/Level1.umap'
+[2022.05.30-15.53.00:944][539]LogFileHelpers: Saving map 'Level1' took 0.058
+[2022.05.30-15.53.00:955][539]AssetCheck: New page: Asset Save: Level1
+[2022.05.30-15.53.00:956][539]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
