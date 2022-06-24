@@ -5993,3 +5993,741 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.24-18.06.13:224][ 42]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Crystal.BP_Crystal
 [2022.06.24-18.06.13:224][ 42]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
 [2022.06.24-18.29.44:750][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.06.24-23.01.53:276][308]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.06.24-23.01.53:348][308]LogContentBrowser: Creating deferred item: NewFolder
+[2022.06.24-23.01.58:214][886]LogContentBrowser: Attempting asset rename: NewFolder -> Actors
+[2022.06.24-23.01.58:215][886]LogContentBrowser: End creating deferred item NewFolder
+[2022.06.24-23.02.01:252][210]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.06.24-23.02.01:270][210]LogContentBrowser: Creating deferred item: NewFolder
+[2022.06.24-23.02.04:576][607]LogContentBrowser: Attempting asset rename: NewFolder -> Projectiles
+[2022.06.24-23.02.04:576][607]LogContentBrowser: End creating deferred item NewFolder
+[2022.06.24-23.02.13:315][575]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.BP_Crystal:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.06.24-23.02.13:315][575]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.BP_Crystal_C' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.06.24-23.02.13:315][575]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.SKEL_BP_Crystal_C' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.06.24-23.02.13:315][575]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.BP_Crystal_C:Location' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.06.24-23.02.13:315][575]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.BP_Crystal:Location.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.06.24-23.02.13:317][575]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.BP_Crystal:Scale.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.06.24-23.02.13:317][575]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.BP_Crystal_C:Scale' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.06.24-23.02.13:317][575]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.SKEL_BP_Crystal_C:Scale' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.06.24-23.02.13:317][575]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.SKEL_BP_Crystal_C:Location' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.06.24-23.02.13:317][575]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.SKEL_BP_Crystal_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.06.24-23.02.13:317][575]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Crystal.SKEL_BP_Crystal_C:BndEvt__BP_Crystal_Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_Crystal.PackageMetaData'
+[2022.06.24-23.02.13:381][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Crystal" FILE="../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Content/Blueprints/Actors/BP_Crystal.uasset" SILENT=true
+[2022.06.24-23.02.13:458][575]LogSavePackage: Moving '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Saved/BP_Crystal61D2033445E4D2A6A404D5A42DA05877.tmp' to '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Content/Blueprints/Actors/BP_Crystal.uasset'
+[2022.06.24-23.02.13:460][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Crystal" FILE="../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Content/Blueprints/BP_Crystal.uasset" SILENT=true
+[2022.06.24-23.02.13:461][575]LogSavePackage: Moving '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Saved/BP_CrystalB44ACE4E482AD8EA6BD02E88116E40B7.tmp' to '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Content/Blueprints/BP_Crystal.uasset'
+[2022.06.24-23.02.13:573][575]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.24-23.02.13:573][575]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Crystal.BP_Crystal
+[2022.06.24-23.02.13:573][575]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Crystal.BP_Crystal
+[2022.06.24-23.02.13:573][575]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Crystal.Default__BP_Crystal_C
+[2022.06.24-23.02.13:573][575]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Crystal.BP_Crystal_C
+[2022.06.24-23.02.18:402][140]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Trigger.BP_Trigger:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2022.06.24-23.02.18:402][140]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Trigger.BP_Trigger_C' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2022.06.24-23.02.18:402][140]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Trigger.SKEL_BP_Trigger_C' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2022.06.24-23.02.18:402][140]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Trigger.BP_Trigger_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2022.06.24-23.02.18:402][140]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Trigger.SKEL_BP_Trigger_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2022.06.24-23.02.18:402][140]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Trigger.SKEL_BP_Trigger_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2022.06.24-23.02.18:402][140]LogMetaData: Removing '/Game/Blueprints/Actors/BP_Trigger.SKEL_BP_Trigger_C:BndEvt__BP_Trigger_Box_K2Node_ComponentBoundEvent_0_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2022.06.24-23.02.18:420][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actors/BP_Trigger" FILE="../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Content/Blueprints/Actors/BP_Trigger.uasset" SILENT=true
+[2022.06.24-23.02.18:428][140]LogSavePackage: Moving '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Saved/BP_Trigger50FB1EA64F527746395FC684564B3983.tmp' to '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Content/Blueprints/Actors/BP_Trigger.uasset'
+[2022.06.24-23.02.18:429][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Trigger" FILE="../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Content/Blueprints/BP_Trigger.uasset" SILENT=true
+[2022.06.24-23.02.18:430][140]LogSavePackage: Moving '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Saved/BP_Trigger771765024CF3530C9C372DB56046AB68.tmp' to '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Content/Blueprints/BP_Trigger.uasset'
+[2022.06.24-23.02.18:473][140]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.24-23.02.18:473][140]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Trigger.BP_Trigger
+[2022.06.24-23.02.18:473][140]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Trigger.BP_Trigger
+[2022.06.24-23.02.18:473][140]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Trigger.Default__BP_Trigger_C
+[2022.06.24-23.02.18:473][140]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Trigger.BP_Trigger_C
+[2022.06.24-23.02.37:206][154]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.24-23.02.38:747][154]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.24-23.02.38:790][154]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.24-23.02.38:798][154]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.24-23.02.46:744][108]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Projectile
+[2022.06.24-23.02.46:771][108]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.24-23.02.48:540][317]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/Projectiles/BP_Projectile.BP_Projectile
+[2022.06.24-23.04.31:617][342]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:617][342]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:626][343]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:627][343]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:627][343]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:636][344]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:636][344]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:636][344]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:645][345]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:646][345]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:646][345]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:655][346]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:655][346]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:655][346]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:664][347]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:664][347]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:664][347]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:674][348]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:674][348]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:674][348]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:684][349]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:684][349]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:684][349]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:694][350]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:694][350]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:694][350]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:704][351]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:704][351]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:705][351]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:714][352]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:715][352]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:715][352]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:725][353]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:725][353]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:726][353]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:735][354]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:735][354]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:735][354]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:745][355]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:745][355]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:745][355]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:754][356]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:755][356]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:755][356]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:764][357]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:764][357]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:764][357]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:774][358]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:774][358]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:774][358]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:783][359]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:784][359]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:784][359]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:793][360]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:793][360]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:793][360]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:803][361]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:803][361]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:803][361]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:813][362]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:813][362]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:813][362]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:823][363]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:823][363]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:823][363]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:833][364]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:833][364]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:833][364]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:842][365]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:843][365]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:843][365]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:852][366]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:852][366]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:852][366]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:862][367]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:862][367]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:862][367]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:872][368]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:872][368]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:872][368]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:881][369]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:881][369]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:881][369]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:891][370]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:891][370]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:891][370]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:901][371]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:902][371]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:902][371]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:911][372]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:911][372]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:911][372]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:921][373]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:921][373]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:921][373]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:930][374]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:930][374]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:930][374]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:940][375]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:940][375]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:940][375]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:950][376]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:950][376]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:950][376]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:959][377]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:960][377]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:960][377]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:969][378]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:969][378]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:970][378]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:979][379]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:979][379]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:979][379]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:989][380]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:989][380]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:989][380]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:999][381]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:999][381]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.31:999][381]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.32:009][382]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.04.32:009][382]LogPhysics: Warning: Scale for /Engine/Transient.World_42:PersistentLevel.BP_Projectile_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.000 Z=0.500
+[2022.06.24-23.07.40:235][218]BlueprintLog: New page: Compile BP_Projectile
+[2022.06.24-23.07.40:407][218]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.06.24-23.08.37:394][506]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.24-23.08.37:400][506]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.06.24-23.08.37:401][506]LogPlayLevel: [PlayLevel] Compiling BP_Crystal before play...
+[2022.06.24-23.08.37:425][506]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2022.06.24-23.08.37:501][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.06.24-23.08.37:505][506]LogPlayLevel: PlayLevel: Blueprint regeneration took 105 ms (2 blueprints)
+[2022.06.24-23.08.37:505][506]PIE: New page: PIE session: Level1 (25 cze 2022, 03:08:37)
+[2022.06.24-23.08.37:537][506]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2022.06.24-23.08.37:554][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016485s)
+[2022.06.24-23.08.37:555][506]LogAIModule: Creating AISystem for world Level1
+[2022.06.24-23.08.37:555][506]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2022.06.24-23.08.37:555][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.017755s)
+[2022.06.24-23.08.37:581][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.06.24-23.08.37:581][506]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.06.24-23.08.37:581][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.24-23.08.37:581][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.24-23.08.37:581][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.24-23.08.37:581][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.24-23.08.37:581][506]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.24-23.08.37:581][506]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.24-23.08.37:581][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.24-23.08.37:581][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.24-23.08.37:582][506]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.24-23.08.37:582][506]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.24-23.08.37:582][506]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.24-23.08.37:582][506]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.24-23.08.37:585][506]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.24-23.08.37:585][506]LogAudioMixer: Display: 1: FrontRight
+[2022.06.24-23.08.37:599][506]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2022.06.24-23.08.37:599][506]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.24-23.08.37:599][506]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.24-23.08.37:599][506]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.24-23.08.37:600][506]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.24-23.08.37:600][506]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.24-23.08.37:600][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.24-23.08.37:601][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.24-23.08.37:601][506]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.24-23.08.37:601][506]LogInit: FAudioDevice initialized.
+[2022.06.24-23.08.37:601][506]LogAudio: Display: Audio Device (ID: 33) registered with world 'Level1'.
+[2022.06.24-23.08.37:619][506]LogLoad: Game class is 'BP_GameMode_C'
+[2022.06.24-23.08.37:621][506]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.06.25-01.08.37
+[2022.06.24-23.08.37:621][506]LogWorld: Bringing up level for play took: 0.001669
+[2022.06.24-23.08.37:622][506]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2022.06.24-23.08.37:625][506]PIE: Server logged in
+[2022.06.24-23.08.37:626][506]PIE: Play in editor total start time 0,227 seconds.
+[2022.06.24-23.08.45:989][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.24-23.08.45:989][467]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2022.06.24-23.08.45:989][467]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.06.24-23.08.45:989][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.24-23.08.45:998][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.24-23.08.46:010][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.24-23.08.46:035][467]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.24-23.08.46:035][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.24-23.08.46:035][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.24-23.08.46:038][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.24-23.08.46:043][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.06.24-23.08.46:074][468]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2022.06.24-23.10.35:682][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.06.24-23.10.35:723][301]LogSavePackage: Moving '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Saved/Level1_Auto8F823C2F5450859ED3CD5CBA309FC01F1.tmp' to '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Saved/Autosaves/Game/Levels/Level1_Auto8.umap'
+[2022.06.24-23.10.35:724][301]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.092
+[2022.06.24-23.10.35:724][301]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.092
+[2022.06.24-23.10.55:683][694]BlueprintLog: New page: Compile BP_Projectile
+[2022.06.24-23.10.55:725][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.06.24-23.14.38:092][381]BlueprintLog: New page: Compile BP_Projectile
+[2022.06.24-23.14.38:136][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.06.24-23.14.40:987][655]LogSlate: Window 'BP_Projectile' being destroyed
+[2022.06.24-23.14.40:992][655]LogSlate: Window 'BP_Projectile' being destroyed
+[2022.06.24-23.14.40:997][655]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.06.24-23.14.40:997][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.24-23.14.45:393][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.06.24-23.14.45:415][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.24-23.14.45:506][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.06.24-23.14.45:543][137]LogSavePackage: Moving '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Saved/Level15705FB984339FBCE6801649AAEDC5420.tmp' to '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Content/Levels/Level1.umap'
+[2022.06.24-23.14.45:553][137]LogFileHelpers: Saving map 'Level1' took 0.137
+[2022.06.24-23.14.45:574][137]LogSavePackage: Moving '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Saved/BP_Projectile66A41A424B431DE87A5B4EBDDD0D988E.tmp' to '../../../../../Repozytoria/UE4_sem2_ball_runner/BallRunner_sem2/Content/Blueprints/Actors/Projectiles/BP_Projectile.uasset'
+[2022.06.24-23.14.45:585][137]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.24-23.14.45:585][137]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2022.06.24-23.14.45:586][137]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/Projectiles/BP_Projectile.BP_Projectile
+[2022.06.24-23.14.46:723][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.06.24-23.14.46:792][262]LogSlate: Window 'BallRunner_sem2 - Unreal Editor' being destroyed
+[2022.06.24-23.14.47:111][263]Cmd: QUIT_EDITOR
+[2022.06.24-23.14.47:111][263]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.06.24-23.14.47:116][263]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.06.24-23.14.47:781][263]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.06.24-23.14.47:781][263]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.06.24-23.14.47:781][263]LogAudio: Display: Audio Device unregistered from world 'Level1'.
+[2022.06.24-23.14.47:781][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.24-23.14.47:782][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.24-23.14.47:815][263]LogAudio: Display: Audio Device Manager Shutdown
+[2022.06.24-23.14.47:815][263]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.24-23.14.47:821][263]LogExit: Preparing to exit.
+[2022.06.24-23.14.47:940][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.06.24-23.14.48:159][263]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.24-23.14.48:161][263]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.06.24-23.14.48:162][263]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.24-23.14.48:162][263]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.24-23.14.48:162][263]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.24-23.14.48:162][263]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.24-23.14.48:162][263]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.24-23.14.48:162][263]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.24-23.14.48:162][263]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.06.24-23.14.48:162][263]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.06.24-23.14.48:163][263]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.24-23.14.48:164][263]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.24-23.14.48:237][263]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.06.24-23.14.48:251][263]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.06.24-23.14.48:252][263]LogExit: Editor shut down
+[2022.06.24-23.14.48:254][263]LogExit: Transaction tracking system shut down
+[2022.06.24-23.14.48:545][263]LogExit: Object subsystem successfully closed.
+[2022.06.24-23.14.48:553][263]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.24-23.14.48:553][263]LogShaderCompilers: Display: Total job queries 27, among them cache hits 1 (3.70%)
+[2022.06.24-23.14.48:553][263]LogShaderCompilers: Display: Tracking 13 distinct input hashes that result in 11 distinct outputs (84.62%)
+[2022.06.24-23.14.48:553][263]LogShaderCompilers: Display: RAM used: 0.08 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.06.24-23.14.48:553][263]LogShaderCompilers: Display: ================================================
+[2022.06.24-23.14.48:565][263]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.06.24-23.14.48:602][263]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (878)
+[2022.06.24-23.14.48:602][263]LogModuleManager: Shutting down and abandoning module BlueprintGraph (876)
+[2022.06.24-23.14.48:602][263]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (874)
+[2022.06.24-23.14.48:602][263]LogModuleManager: Shutting down and abandoning module Voice (872)
+[2022.06.24-23.14.48:609][263]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.06.24-23.14.48:610][263]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.06.24-23.14.48:610][263]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.06.24-23.14.48:617][263]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.06.24-23.14.48:617][263]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.06.24-23.14.48:617][263]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.06.24-23.14.48:617][263]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.06.24-23.14.48:617][263]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.06.24-23.14.48:617][263]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.06.24-23.14.48:617][263]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.06.24-23.14.48:617][263]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.06.24-23.14.48:617][263]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.06.24-23.14.48:617][263]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (822)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (820)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module WebMMedia (818)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (810)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (808)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (806)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (800)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (798)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (796)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (794)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (792)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.06.24-23.14.48:618][263]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.06.24-23.14.48:619][263]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.06.24-23.14.48:619][263]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.06.24-23.14.48:619][263]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.06.24-23.14.48:619][263]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.06.24-23.14.48:619][263]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.06.24-23.14.48:619][263]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.06.24-23.14.48:619][263]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.06.24-23.14.48:619][263]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.06.24-23.14.48:619][263]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.06.24-23.14.48:619][263]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.06.24-23.14.48:619][263]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.06.24-23.14.48:619][263]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.06.24-23.14.48:625][263]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.06.24-23.14.48:625][263]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.06.24-23.14.48:625][263]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.06.24-23.14.48:625][263]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.06.24-23.14.48:625][263]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.06.24-23.14.50:560][263]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.06.24-23.14.50:560][263]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.06.24-23.14.50:560][263]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.06.24-23.14.50:560][263]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.06.24-23.14.50:560][263]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.06.24-23.14.50:560][263]MemoryProfiler: Shutdown
+[2022.06.24-23.14.50:560][263]NetworkingProfiler: Shutdown
+[2022.06.24-23.14.50:560][263]LoadingProfiler: Shutdown
+[2022.06.24-23.14.50:560][263]TimingProfiler: Shutdown
+[2022.06.24-23.14.50:560][263]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.06.24-23.14.50:560][263]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.06.24-23.14.50:560][263]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.06.24-23.14.50:560][263]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.06.24-23.14.50:561][263]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.06.24-23.14.50:562][263]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.06.24-23.14.50:593][263]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.06.24-23.14.50:593][263]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.06.24-23.14.50:593][263]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.06.24-23.14.50:593][263]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.06.24-23.14.50:593][263]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.06.24-23.14.50:593][263]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.06.24-23.14.50:595][263]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.06.24-23.14.50:595][263]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.06.24-23.14.50:595][263]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.06.24-23.14.50:595][263]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.06.24-23.14.50:595][263]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.06.24-23.14.50:603][263]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.06.24-23.14.50:603][263]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.06.24-23.14.50:603][263]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.06.24-23.14.50:603][263]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.06.24-23.14.50:604][263]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.06.24-23.14.50:604][263]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.06.24-23.14.50:604][263]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.06.24-23.14.50:616][263]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.06.24-23.14.50:616][263]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.06.24-23.14.50:619][263]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.06.24-23.14.50:619][263]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.06.24-23.14.50:619][263]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.06.24-23.14.50:619][263]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.06.24-23.14.50:619][263]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.06.24-23.14.50:619][263]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.06.24-23.14.50:619][263]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.06.24-23.14.50:620][263]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.06.24-23.14.50:620][263]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.06.24-23.14.50:620][263]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.06.24-23.14.50:620][263]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.06.24-23.14.50:620][263]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.06.24-23.14.50:620][263]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.06.24-23.14.50:620][263]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.06.24-23.14.50:620][263]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.06.24-23.14.50:620][263]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.06.24-23.14.50:620][263]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.06.24-23.14.50:620][263]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.06.24-23.14.50:681][263]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.06.24-23.14.50:681][263]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.06.24-23.14.50:681][263]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.06.24-23.14.50:681][263]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.06.24-23.14.50:681][263]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (598)
+[2022.06.24-23.14.50:681][263]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (596)
+[2022.06.24-23.14.50:681][263]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.06.24-23.14.50:681][263]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module ScreenshotTools (586)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module SynthesisEditor (584)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module Synthesis (582)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (580)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (578)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module OpenXREditor (576)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (574)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (568)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module AssetTags (560)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (544)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (542)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module MediaCompositing (540)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module ImgMedia (538)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (536)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (534)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (532)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (530)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (528)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (526)
+[2022.06.24-23.14.50:682][263]LogOpenImageDenoise: OIDN shutting down
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (524)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module MotoSynth (522)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module MeshConversion (520)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module DynamicMesh (518)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (516)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module GeometricObjects (514)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (512)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (511)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (508)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (506)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (504)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (502)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (500)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module ChaosNiagara (498)
+[2022.06.24-23.14.50:682][263]LogModuleManager: Shutting down and abandoning module FractureEditor (496)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (495)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (492)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module BackChannel (490)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (488)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module AutomationUtils (486)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module AlembicImporter (484)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module AlembicLibrary (483)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module GeometryCache (482)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (481)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (476)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (474)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (472)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (470)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module UObjectPlugin (468)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (466)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module PluginUtils (464)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (462)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (460)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (458)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module PluginBrowser (456)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (454)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (452)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module GitSourceControl (450)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module SourceControl (449)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (446)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module CryptoKeys (444)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module CurveEditorTools (442)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (440)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (438)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (434)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (432)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (430)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (428)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2022.06.24-23.14.50:683][263]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (422)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2022.06.24-23.14.51:367][263]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2022.06.24-23.14.51:467][263]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (386)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (384)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (382)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (380)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (378)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (376)
+[2022.06.24-23.14.51:568][263]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (374)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (372)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (370)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (368)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module MagicLeapController (366)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (364)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module MagicLeapAR (362)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (360)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (346)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (344)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module FacialAnimation (342)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module DataValidation (340)
+[2022.06.24-23.14.51:568][263]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (338)
+[2022.06.24-23.14.51:569][263]LogModuleManager: Shutting down and abandoning module LevelEditor (337)
+[2022.06.24-23.14.51:571][263]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (336)
+[2022.06.24-23.14.51:571][263]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (334)
+[2022.06.24-23.14.51:571][263]LogModuleManager: Shutting down and abandoning module MainFrame (332)
+[2022.06.24-23.14.51:571][263]LogModuleManager: Shutting down and abandoning module HotReload (331)
+[2022.06.24-23.14.51:571][263]LogModuleManager: Shutting down and abandoning module ToolMenus (327)
+[2022.06.24-23.14.51:571][263]LogModuleManager: Shutting down and abandoning module ContentBrowser (325)
+[2022.06.24-23.14.51:571][263]LogModuleManager: Shutting down and abandoning module ContentBrowserData (324)
+[2022.06.24-23.14.51:571][263]LogModuleManager: Shutting down and abandoning module TreeMap (321)
+[2022.06.24-23.14.51:571][263]LogModuleManager: Shutting down and abandoning module AnimationSharing (318)
+[2022.06.24-23.14.51:571][263]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2022.06.24-23.14.51:571][263]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.06.24-23.14.51:571][263]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2022.06.24-23.14.51:571][263]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2022.06.24-23.14.51:571][263]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.06.24-23.14.51:581][263]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.06.24-23.14.51:582][263]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.06.24-23.14.51:582][263]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.06.24-23.14.51:582][263]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.06.24-23.14.51:582][263]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.06.24-23.14.51:582][263]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.06.24-23.14.51:582][263]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.06.24-23.14.51:582][263]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.06.24-23.14.51:582][263]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.06.24-23.14.51:582][263]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.06.24-23.14.51:582][263]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.06.24-23.14.51:582][263]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.06.24-23.14.51:582][263]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.06.24-23.14.51:583][263]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.06.24-23.14.51:585][263]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.06.24-23.14.51:585][263]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.06.24-23.14.51:585][263]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.06.24-23.14.51:585][263]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.06.24-23.14.51:585][263]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.06.24-23.14.51:585][263]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.06.24-23.14.51:585][263]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.06.24-23.14.51:585][263]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.06.24-23.14.51:585][263]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.06.24-23.14.51:585][263]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.06.24-23.14.51:585][263]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.06.24-23.14.51:585][263]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.06.24-23.14.51:586][263]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.06.24-23.14.51:591][263]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.06.24-23.14.51:591][263]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.06.24-23.14.51:591][263]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.06.24-23.14.51:591][263]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.06.24-23.14.51:591][263]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.06.24-23.14.51:600][263]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.06.24-23.14.51:600][263]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.06.24-23.14.51:600][263]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.06.24-23.14.51:600][263]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.06.24-23.14.51:600][263]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.06.24-23.14.51:600][263]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.06.24-23.14.51:600][263]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.06.24-23.14.51:600][263]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.06.24-23.14.51:600][263]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.06.24-23.14.51:604][263]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.06.24-23.14.51:620][263]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.06.24-23.14.51:620][263]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.06.24-23.14.51:620][263]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.06.24-23.14.51:620][263]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.06.24-23.14.51:620][263]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.06.24-23.14.51:621][263]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.06.24-23.14.51:621][263]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.06.24-23.14.51:621][263]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.06.24-23.14.51:621][263]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.06.24-23.14.51:621][263]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.06.24-23.14.51:621][263]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.06.24-23.14.51:621][263]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.06.24-23.14.51:621][263]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.06.24-23.14.51:621][263]LogHMD: Freeing OpenVRDLLHandle.
+[2022.06.24-23.14.51:621][263]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.06.24-23.14.51:621][263]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.06.24-23.14.51:633][263]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.06.24-23.14.51:633][263]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.06.24-23.14.51:633][263]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.06.24-23.14.51:633][263]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.06.24-23.14.51:633][263]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.06.24-23.14.51:641][263]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.06.24-23.14.51:641][263]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.06.24-23.14.51:641][263]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.06.24-23.14.51:641][263]LogModuleManager: Shutting down and abandoning module VariantManagerContent (92)
+[2022.06.24-23.14.51:641][263]LogModuleManager: Shutting down and abandoning module DatasmithContent (90)
+[2022.06.24-23.14.51:642][263]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (88)
+[2022.06.24-23.14.51:642][263]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (84)
+[2022.06.24-23.14.51:643][263]LogModuleManager: Shutting down and abandoning module XMPP (79)
+[2022.06.24-23.14.51:643][263]LogModuleManager: Shutting down and abandoning module WebSockets (78)
+[2022.06.24-23.14.51:667][263]LogModuleManager: Shutting down and abandoning module HTTP (75)
+[2022.06.24-23.14.51:667][263]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.06.24-23.14.51:667][263]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9054BFF0-47C0-2C53-6F41-CBBCE43121E8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=292a9a31462f96e6a46624ba30c6535b%7C69b0e75896ee40e0bfcff4043a6f022d%7C24e55704-44a6-4337-a437-6d55c1169104&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.06.24-23.14.51:667][263]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.06.24-23.14.51:698][263]LogModuleManager: Shutting down and abandoning module SSL (74)
+[2022.06.24-23.14.51:700][263]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2022.06.24-23.14.51:702][263]LogModuleManager: Shutting down and abandoning module Media (69)
+[2022.06.24-23.14.51:702][263]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2022.06.24-23.14.51:702][263]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2022.06.24-23.14.51:702][263]LogModuleManager: Shutting down and abandoning module MLSDK (62)
+[2022.06.24-23.14.51:702][263]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2022.06.24-23.14.51:702][263]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.06.24-23.14.51:702][263]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2022.06.24-23.14.51:702][263]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.06.24-23.14.51:703][263]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.06.24-23.14.51:709][263]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.06.24-23.14.51:710][263]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.06.24-23.14.51:710][263]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.06.24-23.14.51:710][263]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.06.24-23.14.51:710][263]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.06.24-23.14.51:710][263]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.06.24-23.14.51:710][263]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.06.24-23.14.51:710][263]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.06.24-23.14.51:710][263]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.06.24-23.14.51:710][263]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.06.24-23.14.51:710][263]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.06.24-23.14.51:721][263]LogD3D11RHI: Shutdown
+[2022.06.24-23.14.51:721][263]LogD3D11RHI: CleanupD3DDevice
+[2022.06.24-23.14.51:734][263]LogExit: Exiting.
+[2022.06.24-23.14.51:799][263]Log file closed, 06/25/22 01:14:51
